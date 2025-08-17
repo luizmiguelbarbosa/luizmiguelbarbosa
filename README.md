@@ -38,7 +38,7 @@ Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN*
 - **Idade**: Não sou um número, sou código.
 - **Localização**: Recife, Pernambuco, Brasil.
 - **Status**: Sempre em atualização. 
-- **Conexão**: [LinkedIn](https://www.linkedin.com/in/luiz-miguel-1bb14636a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Twitter](#) | [Website](#)
+- **Conexão**: [LinkedIn](https://www.linkedin.com/in/luiz-miguel-1bb14636a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -56,11 +56,11 @@ A tecnologia não é só um trabalho, é uma **missão**. Se você também é ap
 
 **Gráfico de Contribuições no GitHub:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SeuNomeGitHub]&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizmiguelbarbosa&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
 **Top Linguagens Usadas:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuNomeGitHub]&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarbosa&theme=radical)
 
 ---
 
