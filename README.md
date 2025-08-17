@@ -6,7 +6,7 @@
 
 **🔌 CONECTADO COM O FUTURO**
 
-Bem-vindo ao meu repositório! Sou **Luiz Miguel**, um **cyberpunk em evolução**, navegando entre os códigos como se fossem veias de circuitos, e transformando sonhos digitais em realidade.  
+Bem-vindo ao meu repositório! Sou **Luiz Miguel**, um **dev em evolução**, navegando entre os códigos como se fossem veias de circuitos, e transformando sonhos digitais em realidade.  
 Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN** (Centro de Informática da Universidade Federal de Pernambuco), onde exploro os limites da tecnologia com ferramentas como Python, C, C++ e até Arduino. 🚀
 
 ---
@@ -21,21 +21,19 @@ Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN*
 
 **🔧 HABILIDADES**
 
-- **Programação**: Python, C, C++, Arduino (sou um mestre das linguagens e desbravador de novas possibilidades).
-- **Hardware e Eletrônica**: Entre chips e circuitos, a inovação não tem limite. 🤖
-- **Engenharia da Computação**: Estudando as leis do universo digital para criar a fusão perfeita entre software e hardware.
-
+- **Programação**: Python, C, C++.
+- **Hardware e Eletrônica**: Atualmente pratiquei e ainda pratico arduino
 ---
 
 **📡 ATUALMENTE**
 
-🚧 Trabalhando em projetos que exploram a **interação entre sistemas embarcados**, **inteligência artificial** e **internet das coisas (IoT)**. Sempre buscando integrar o físico e o digital em algo maior. 🌐
+🚧 Trabalhando em projetos que exploram a **interação entre sistemas embarcados**. Sempre buscando integrar o físico e o digital em algo maior. 🌐
 
 ---
 
 **⚡ SOBRE MIM**
 
-- **Idade**: Não sou um número, sou código.
+- **Idade**: 19 anos
 - **Localização**: Recife, Pernambuco, Brasil.
 - **Status**: Sempre em atualização. 
 - **Conexão**: [LinkedIn](https://www.linkedin.com/in/luiz-miguel-1bb14636a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
