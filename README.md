@@ -1,5 +1,3 @@
-eu queria fonte verde e tals, e graficos 3d
-
 # **👾 DEV - Luiz Miguel**
 
 > "No limiar entre o homem e a máquina, encontramos o futuro."
