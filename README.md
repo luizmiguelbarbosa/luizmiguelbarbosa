@@ -1,4 +1,6 @@
-**# **👾 DEV - Luiz Miguel**
+eu queria fonte verde e tals, e graficos 3d
+
+# **👾 DEV - Luiz Miguel**
 
 > "No limiar entre o homem e a máquina, encontramos o futuro."
 
@@ -6,7 +8,7 @@
 
 **🔌 CONECTADO COM O FUTURO**
 
-Bem-vindo ao meu portfólio! Sou **Luiz Miguel**, um **dev em evolução**, navegando entre os códigos como se fossem veias de circuitos, e transformando sonhos digitais em realidade.  
+Bem-vindo ao meu portifólio! Sou **Luiz Miguel**, um **dev em evolução**, navegando entre os códigos como se fossem veias de circuitos, e transformando sonhos digitais em realidade.  
 Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN** (Centro de Informática da Universidade Federal de Pernambuco), onde exploro os limites da tecnologia com ferramentas como Python, C, C++ e até Arduino. 🚀
 
 ---
@@ -22,8 +24,7 @@ Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN*
 **🔧 HABILIDADES**
 
 - **Programação**: Python, C, C++.
-- **Hardware e Eletrônica**: Atualmente pratiquei e ainda pratico arduino.
-
+- **Hardware e Eletrônica**: Atualmente pratiquei e ainda pratico arduino
 ---
 
 **📡 ATUALMENTE**
@@ -36,7 +37,7 @@ Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN*
 
 - **Idade**: 19 anos
 - **Localização**: Recife, Pernambuco, Brasil.
-- **Status**: Sempre em atualização.
+- **Status**: Sempre em atualização. 
 - **Conexão**: [LinkedIn](https://www.linkedin.com/in/luiz-miguel-1bb14636a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
@@ -49,9 +50,9 @@ A tecnologia não é só um trabalho, é uma **missão**. Se você também é ap
 
 **📊 MEUS PROJETOS E ESTATÍSTICAS**
 
-![Python](https://img.shields.io/badge/-Python-00FF00?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00FF00?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00FF00?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Gráfico de Contribuições no GitHub:**
 
@@ -61,12 +62,6 @@ A tecnologia não é só um trabalho, é uma **missão**. Se você também é ap
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiguelbarbosa&theme=radical)
 
-**Gráfico 3D de Contribuições no GitHub** (visual mais futurista):
-
-![GitHub 3D Graph](![GitHub 3D Contributions](https://github-readme-stats.vercel.app/api?username=luizmiguelbarbosa&count_private=true&show_icons=true&hide_title=true&theme=radical)
-
-
 ---
 
 > **"Nosso futuro é escrito em código."**
-**
