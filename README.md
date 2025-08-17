@@ -1,4 +1,4 @@
-# **👾 CYBERPUNK DEV - [Seu Nome]**
+# **👾 DEV - Luiz Miguel**
 
 > "No limiar entre o homem e a máquina, encontramos o futuro."
 
@@ -6,7 +6,7 @@
 
 **🔌 CONECTADO COM O FUTURO**
 
-Bem-vindo ao meu repositório! Sou **[Seu Nome]**, um **cyberpunk em evolução**, navegando entre os códigos como se fossem veias de circuitos, e transformando sonhos digitais em realidade.  
+Bem-vindo ao meu repositório! Sou **Luiz Miguel**, um **cyberpunk em evolução**, navegando entre os códigos como se fossem veias de circuitos, e transformando sonhos digitais em realidade.  
 Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN** (Centro de Informática da Universidade Federal de Pernambuco), onde exploro os limites da tecnologia com ferramentas como Python, C, C++ e até Arduino. 🚀
 
 ---
