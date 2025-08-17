@@ -63,7 +63,8 @@ A tecnologia não é só um trabalho, é uma **missão**. Se você também é ap
 
 **Gráfico 3D de Contribuições no GitHub** (visual mais futurista):
 
-![GitHub 3D Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=luizmiguelbarbosa&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true)
+![GitHub 3D Graph](![GitHub 3D Contributions](https://github-readme-stats.vercel.app/api?username=luizmiguelbarbosa&count_private=true&show_icons=true&hide_title=true&theme=radical)
+
 
 ---
 
