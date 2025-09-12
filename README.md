@@ -22,7 +22,7 @@ Atualmente, estou imerso no universo da **Engenharia da Computação** no **CIN*
 **🔧 HABILIDADES**
 
 - **Programação**: Python, C, C++.
-- **Hardware e Eletrônica**: Atualmente pratiquei e ainda pratico arduino
+- **Hardware e Eletrônica**: Arduino, Verilog(HDL)
 ---
 
 **📡 ATUALMENTE**
