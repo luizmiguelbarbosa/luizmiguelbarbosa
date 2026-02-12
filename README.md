@@ -1,43 +1,28 @@
-# Luiz Miguel
+# Hi, I'm Luiz Miguel 👋  
 
-Backend Developer in Progress  
-Computer Engineering Student @ UFPE  
+- 💻 Backend-focused Java developer  
+- 🌱 Currently deepening my knowledge in Spring & Spring Boot  
+- 🎓 Computer Engineering Student @ Federal University of Pernambuco (UFPE)  
+- 📫 Contact: miguelcomputerengineer@gmail.com  
 
----
+<br>
 
-## About Me
-
-I am a Computer Engineering student at the Federal University of Pernambuco (UFPE) with a strong focus on **Java** and **Object-Oriented Programming (OOP)**.
-
-Currently, I am preparing to specialize in **Backend Development using Spring and Spring Boot**, building solid foundations in software architecture, clean code, and scalable systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-barbosa)
 
 ---
 
-## Current Focus
+<br>
 
-- Advanced Java fundamentals  
-- Object-Oriented Design  
-- Spring Framework  
-- Spring Boot  
-- Backend architecture concepts  
-- Best practices and clean code  
+## 🚀 Tech Stack
 
----
-
-## Tech Stack
-
-**Languages**  
-Java (main focus)  
-C  
-Python  
-
-**Backend & Tools**  
-Spring (learning)  
-Spring Boot (learning)  
-Git  
-Linux  
-
-**IDEs**  
-IntelliJ IDEA  
-Eclipse  
-VS Code  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+</p>
