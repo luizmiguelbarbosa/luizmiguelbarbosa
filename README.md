@@ -41,16 +41,3 @@ Linux
 IntelliJ IDEA  
 Eclipse  
 VS Code  
-
----
-
-## Professional Goal
-
-To become a highly skilled Backend Engineer, capable of designing and building robust, scalable, and maintainable Java applications.
-
----
-
-## Contact
-
-Email: miguelcomputerengineer@gmail.com  
-LinkedIn: www.linkedin.com/in/luiz-miguel-barbosa
