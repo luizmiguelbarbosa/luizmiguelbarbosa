@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
-<br>
-
 <h2>📚 Current Focus</h2>
 
 <ul>
