@@ -1,28 +1,38 @@
-# Hi, I'm Luiz Miguel 👋  
+<h1>Hi, I'm Luiz Miguel 👋</h1>
 
-- 💻 Backend-focused Java developer  
-- 🌱 Currently deepening my knowledge in Spring & Spring Boot  
-- 🎓 Computer Engineering Student @ Federal University of Pernambuco (UFPE)  
-- 📫 Contact: miguelcomputerengineer@gmail.com  
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-barbosa)
-
----
+<ul>
+  <li>💻 Focused on C programming and low-level concepts</li>
+  <li>🧠 Studying data structures, pointers, and memory management</li>
+  <li>🎓 Computer Engineering Student @ Federal University of Pernambuco (UFPE)</li>
+  <li>📫 Contact: miguelcomputerengineer@gmail.com</li>
+</ul>
 
 <br>
 
-## 🚀 Tech Stack
+<a href="https://www.linkedin.com/in/luiz-miguel-barbosa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<hr>
+
+<br>
+
+<h2>🚀 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
+
+<br>
+
+<h2>📚 Current Focus</h2>
+
+<ul>
+  <li>Memory management in C</li>
+  <li>Pointers and pointer arithmetic</li>
+  <li>Data structures implementation (lists, stacks, queues)</li>
+</ul>
